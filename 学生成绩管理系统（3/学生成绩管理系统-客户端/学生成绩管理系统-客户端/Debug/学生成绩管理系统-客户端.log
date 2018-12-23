@@ -1,0 +1,5 @@
+﻿  client.cpp
+c:\users\11794\desktop\学生成绩管理系统\学生成绩管理系统（3\学生成绩管理系统-客户端\学生成绩管理系统-客户端\client.cpp(35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1828): note: 参见“inet_addr”的声明
+  学生成绩管理系统-客户端.vcxproj -> C:\Users\11794\Desktop\学生成绩管理系统\学生成绩管理系统（3\学生成绩管理系统-客户端\Debug\学生成绩管理系统-客户端.exe
+  学生成绩管理系统-客户端.vcxproj -> C:\Users\11794\Desktop\学生成绩管理系统\学生成绩管理系统（3\学生成绩管理系统-客户端\Debug\学生成绩管理系统-客户端.pdb (Partial PDB)
